@@ -6,3 +6,4 @@ However I am working on patches to fix that right now and it should operational 
 Stay Tuned for That
 Thanks!
 WIPOS Development Team (AKA just me alone...)
+P.S. and to those people from the osdev wiki, cut me some slack pls...
